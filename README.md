@@ -27,7 +27,6 @@ Player 2 (right side):
 UP - move the paddle up
 DOWN - move the paddle down
 ```
-The game is won when one player reaches a score of 10. The game can be restarted by closing the Pygame window and running the game again.
 
 ## Acknowledgments
 This game was inspired by the classic Pong game, which was first released by Atari in 1972. The Pygame library was used to create the game window and handle user input.
