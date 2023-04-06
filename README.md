@@ -3,25 +3,30 @@ This is a simple implementation of the classic Pong game using the Pygame librar
 
 ## Prerequisites
 Before running the game, you must have the following software installed:
-
+```
 Python 3.x
 Pygame
+```
 
 ## Running the Game
 To run the game, navigate to the project directory in a terminal or command prompt and enter the following command:
+```
 python pong.py
+```
 
 This will launch the game in a Pygame window.
 
 ## Playing the Game
 The game is controlled using the following keys:
 
+```
 Player 1 (left side):
 W - move the paddle up
 S - move the paddle down
 Player 2 (right side):
 UP - move the paddle up
 DOWN - move the paddle down
+```
 The game is won when one player reaches a score of 10. The game can be restarted by closing the Pygame window and running the game again.
 
 ## Acknowledgments
